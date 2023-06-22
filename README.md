@@ -12,7 +12,7 @@
 
 - Visitez mon portfolio en suivent ce [lien](https://paul-greau.netlify.app/)
 
-- Je suis actuellement à la recherche d'une nouvelle opportunité d'emploi : [mon cv](https://paul-greau.netlify.app/cv_paul_greau.pdf)
+- Je suis actuellement à la recherche d'une nouvelle opportunité d'emploi : [mon cv](https://paul-greau.netlify.app/#experiences)
 
 <br>
 
