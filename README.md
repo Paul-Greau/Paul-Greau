@@ -50,7 +50,7 @@
 
 - **Cloud Hosting**:
 
-  ![Netlify](https://img.shields.io/badge/Netlify%20Pages-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 <br>
