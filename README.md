@@ -74,7 +74,7 @@
 
 - **Environment / Outils**:
 
-  ![linux](https://img.shields.io/badge/linux-white.svg?style=for-the-badge&logo=linux&logoColor=black)
+  ![linux](https://img.shields.io/badge/linux-52B0E7.svg?style=for-the-badge&logo=linux&logoColor=black)
   ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
