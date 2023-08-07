@@ -8,7 +8,7 @@
 
 <br>
 
-- Développeur JavaScript en utilisant React, Node.js et d'autres frameworks.
+- Développeur JavaScript, React, Node.js et d'autres frameworks.
 
 - Visitez mon portfolio en suivent ce [lien](https://paul-greau.netlify.app/)
 
