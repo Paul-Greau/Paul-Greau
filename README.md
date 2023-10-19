@@ -36,23 +36,29 @@
   ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
-
 <br>
 
 - **Data Base**:
 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+- **ORM**:
+
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 <br>
 
-- **Frameworks et librairies**:
+- **Frameworks & librairies**:
 
   ![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   ![Recoil](https://img.shields.io/badge/recoil-%233578e5.svg?style=for-the-badge&logo=recoiljs&logoColor=white)
   ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
+  ![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br>
 
@@ -67,23 +73,34 @@
 - **Design**:
 
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
 
-- **Environment / Outils**:
+- **Environment & Tools**:
 
-  ![linux](https://img.shields.io/badge/linux-52B0E7.svg?style=for-the-badge&logo=linux&logoColor=black)
   ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+  ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
 <br>
 
-- **En cours d'apprentissage**:
+- **OS**:
+
+![linux](https://img.shields.io/badge/linux-52B0E7.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+<br>
+
+- **Currently learning**:
   
   ![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
   ![Three JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </p>
 
