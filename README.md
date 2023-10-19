@@ -34,7 +34,15 @@
 - **Back-End**:
 
   ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  
+
+<br>
+
+- **Data Base**:
+
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 <br>
@@ -52,6 +60,7 @@
 
   ![Netlify](https://img.shields.io/badge/Netlify-%23327FC7.svg?style=for-the-badge&logo=netlify&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+  ![NameCheap](https://img.shields.io/badge/NameCheap-%23E98407.svg?style=for-the-badge)
 
 <br>
 
