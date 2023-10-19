@@ -117,10 +117,10 @@
 <br>
 
 <p align="center"><a href="https://www.linkedin.com/in/paul-gr%C3%A9au/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  paul gréau-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a> &nbsp;
 <a href="mailto:pga.greau@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  paul gréau-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a></p>
 
 <br>
